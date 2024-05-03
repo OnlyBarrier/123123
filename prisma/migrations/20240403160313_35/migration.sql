@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Date" ADD COLUMN     "num" INTEGER NOT NULL DEFAULT 0;

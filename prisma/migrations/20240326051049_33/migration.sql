@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Exit" ADD COLUMN     "entryId" TEXT NOT NULL DEFAULT '',
+ADD COLUMN     "productId" TEXT NOT NULL DEFAULT '';
